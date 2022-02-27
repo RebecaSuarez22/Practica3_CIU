@@ -12,7 +12,7 @@ Al ejecutar el programa, se empezará a mover el sistema planetario. El programa
 
 <br>
 <p align="center">
-  <img width="750" height="400" src="https://user-images.githubusercontent.com/72138219/155897551-869391ad-2c09-407b-a8cd-38a99b86eb3b.PNG">
+  <img width="750" height="500" src="https://user-images.githubusercontent.com/72138219/155897551-869391ad-2c09-407b-a8cd-38a99b86eb3b.PNG">
 </p>
 <br>
 
@@ -20,7 +20,7 @@ Al ejecutar el programa, se empezará a mover el sistema planetario. El programa
 <p><b> Ejemplo  </b></p>
 <br>
 <p align="center">
-  <img width="750" height="400" src="https://user-images.githubusercontent.com/72138219/155897483-7d20812a-b2d1-41c5-a392-5562255c34ca.gif">
+  <img width="750" height="500" src="https://user-images.githubusercontent.com/72138219/155897483-7d20812a-b2d1-41c5-a392-5562255c34ca.gif">
 </p>
 <br>
 
