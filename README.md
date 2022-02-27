@@ -29,4 +29,4 @@ Al ejecutar el programa, se empezará a mover el sistema planetario. El programa
 <p>Documentación de processing</p>
 
 <br>
-Autor: Rebeca Suárez Ojeda
+<p><b> Autor: Rebeca Suárez Ojeda </b></p>
