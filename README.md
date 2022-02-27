@@ -25,8 +25,8 @@ Al ejecutar el programa, se empezará a mover el sistema planetario. El programa
 <br>
 
 <p><b> Referencias </b></p>
-Guion de prácticas
-Documentación de processing
+<p>Guion de prácticas</p>
+<p>Documentación de processing</p>
 
 <br>
 Autor: Rebeca Suárez Ojeda
