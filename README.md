@@ -12,7 +12,6 @@ Al ejecutar el programa, se empezará a mover el sistema planetario. El programa
 
 <br>
 <p align="center">
-  <img width="750" height="400" src="https://user-images.githubusercontent.com/72138219/155897247-1c574f55-5f71-4577-a323-e459cba32b5f.PNG">
+  <img width="750" height="400" src="https://user-images.githubusercontent.com/72138219/155897447-a8b4c4d2-ea1c-4597-9bf2-645d9c0345c3.gif">
 </p>
 <br>
-![bloggif_621bd52d2e8fd](https://user-images.githubusercontent.com/72138219/155897447-a8b4c4d2-ea1c-4597-9bf2-645d9c0345c3.gif)
