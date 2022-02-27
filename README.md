@@ -17,7 +17,7 @@ Al ejecutar el programa, se empezará a mover el sistema planetario. El programa
 <br>
 
 <br>
-<p><b> Ejemplo  </b></p>
+<p><b> Gif animado  </b></p>
 <br>
 <p align="center">
   <img width="750" height="500" src="https://user-images.githubusercontent.com/72138219/155897483-7d20812a-b2d1-41c5-a392-5562255c34ca.gif">
