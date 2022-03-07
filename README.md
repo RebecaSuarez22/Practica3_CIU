@@ -20,12 +20,13 @@ Al ejecutar el programa, se empezará a mover el sistema planetario. El programa
 <p><b> Gif animado  </b></p>
 <br>
 <p align="center">
-  <img width="750" height="500" src="https://user-images.githubusercontent.com/72138219/156951674-0ca93541-35de-479e-a1b9-8a85c1974cb7.gif">
+  <img width="750" height="500" src="https://user-images.githubusercontent.com/72138219/156951785-55b517f8-e9ab-4c19-9642-042fbe7e6a80.gif">
 </p>
 <br>
 
 <p><b> Referencias </b></p>
 <p>Guion de prácticas</p>
+
 <p>Documentación de processing</p>
 
 <br>
